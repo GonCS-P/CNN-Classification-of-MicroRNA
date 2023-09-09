@@ -28,7 +28,7 @@ In machine learning, data division into training, validation, and test sets sign
 
 ## Content
 
-- **Gon's Research Summary.pdf** The study output paper.
+- **Research Summary.pdf** The study output paper.
 - **Cross-Correlation-V3-Cleaned.ipynb** Consists of the study's code
 - **masks + images** Folder containing the produced miR types tamplates
 
